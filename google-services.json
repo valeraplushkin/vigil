@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "94751298246",
+    "project_id": "vigil-73349",
+    "storage_bucket": "vigil-73349.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94751298246:android:466e7355e91fcdc3367dc7",
+        "android_client_info": {
+          "package_name": "com.valeraplushkin.vigil"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZldr71qyHnBErlzQKVM306ZZlAx04Xi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
